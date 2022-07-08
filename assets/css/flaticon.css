@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?ed6eadd511b0a9e7cc123390acb3193a") format("truetype"),
+url("../fonts/flaticon.woff?ed6eadd511b0a9e7cc123390acb3193a") format("woff"),
+url("../fonts/flaticon.woff2?ed6eadd511b0a9e7cc123390acb3193a") format("woff2"),
+url("../fonts/flaticon.eot?ed6eadd511b0a9e7cc123390acb3193a#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?ed6eadd511b0a9e7cc123390acb3193a#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bone:before {
+    content: "\f101";
+}
+.flaticon-vet:before {
+    content: "\f102";
+}
+.flaticon-feedback:before {
+    content: "\f103";
+}
+.flaticon-beard:before {
+    content: "\f104";
+}
+.flaticon-hairstyling:before {
+    content: "\f105";
+}
+.flaticon-scissor:before {
+    content: "\f106";
+}
+.flaticon-shaving-razor:before {
+    content: "\f107";
+}
+.flaticon-dog:before {
+    content: "\f108";
+}
+.flaticon-pawprint:before {
+    content: "\f109";
+}
+.flaticon-open:before {
+    content: "\f10a";
+}
+.flaticon-salon:before {
+    content: "\f10b";
+}
+
